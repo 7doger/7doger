@@ -1,16 +1,15 @@
-## Hi there 👋
+### Yoo, I'm 7doger 👋
 
-<!--
-**7doger/7doger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/u/21374628" style="width: 25%;" align="right">
 
-Here are some ideas to get you started:
+我是一名 来自中国的 伪装成程序员的普通市民，擅长带薪摸鱼，爱注册一些没啥用的域名、玩玩游戏。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ 曾运营过 [阿育网盘](https://ubi.plus/)（已闭站） / [4399.LIVE](https://4399.live/) （维护中）等项目
+- 🎮 最近在玩 [绝区零](https://zzz.mihoyo.com/)
+- 🤔 目前主业 [QWQCloud](https://www.qwqcloud.com/) 
+- 💡 我会在 [Bilibili](https://space.bilibili.com/12574988) 和 [AcFun](https://www.acfun.cn/u/8194778) 上发布视频和更新动态：@神秘列车长
+- 💬 可以通过 邮件 bili@bili.ren 或 [TG](#) 联系我
+
+这里是我的 Github 主页，可以随便看看啦~
+
+----
